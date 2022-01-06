@@ -1,0 +1,204 @@
+.menu{
+    background-color: orange;
+    
+}
+
+.content-one{
+    display: flex;
+    color: white; 
+    gap: 35%;
+}
+
+
+.menu-sub1{
+    margin-left: 8%;
+    width: 20%;
+}
+
+
+.menu-sub2{
+    
+    width: 40%;
+    align-content: center;
+    text-align: center;
+    margin: 0.5%;
+}
+
+
+.menu-sub2 a{
+    color: white;
+    font-size: 16pt;
+    margin: 2%;
+    text-decoration: none;
+
+}
+
+
+
+.content-two{
+    color: white;
+    display: flex;
+    gap: 15%;
+    margin-top: 6%;
+}
+
+.menu-sub3{
+    margin-left: 8%;
+    width: 35%;
+    align-items: center;
+    text-align: left;
+}
+
+.menu-sub3 h1{
+    font-size: 35pt;
+}
+
+
+.menu-sub3 p{
+    color: rgba(245, 245, 245, 0.973);
+}
+
+
+
+
+
+.btn-upper{
+    color: white;
+    background-color: orange;
+    
+    border: 2px solid white;
+    padding: 2%;
+    border-radius: 13px;
+    width: 100px;
+    font-family: Roboto;
+    font-size: 15pt;
+    margin-bottom: 3%;
+}
+
+button:hover{
+    color: red;
+}
+
+
+
+.menu-sub4{
+    background-color: rgb(104, 97, 97);
+    width: 400px;
+    height: 150px;
+    align-items: center;
+    text-align: center; 
+}
+
+.menu-sub4 p{
+    text-align: center;
+    padding: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.major{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    
+  
+}
+
+.sub-major1{
+    
+    /* text-align: center; */
+   
+    margin: 1%;
+    
+}
+
+
+
+.sub-major1 h3{
+    border: 2px solid blue;
+    border-radius: 16px;
+    height: 200px;
+    width: 200px;
+    margin-left: 17%;
+}
+
+
+
+.menu3{
+    background-color: silver ;
+    height: 300px;
+    text-align: center;
+}
+
+.menu3 p{
+    padding: 9%;
+    font-size: 20pt;
+}
+
+
+
+
+
+
+.menu4{
+    background-color: green;
+    margin: 3%;
+    
+}
+
+
+.menu4-sub{
+    background-color: firebrick;
+    display: flex;
+    
+    color: white;
+    gap: 30%;
+}
+
+
+
+.all{
+    padding: 4%;
+}
+
+
+.part{
+    padding: 4%;
+}
+
+
+
+.btn-work{
+    color: white;
+    background-color: firebrick;
+    
+    border: 2px solid white;
+    padding: 10%;
+    border-radius: 13px;
+    width: 100px;
+    font-family: Roboto;
+    font-size: 15pt;
+    margin-bottom: 3%;
+}
+
+
+
+footer{
+    background-color: silver;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    gap: 40%;
+    padding: 4%;
+}
+
+
+
